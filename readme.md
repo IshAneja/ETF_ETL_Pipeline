@@ -1,4 +1,4 @@
-# ETF Price ETL Pipeline
+# 💹 ETF Price ETL Pipeline
 
 This project is an ETL (Extract, Transform, Load) pipeline built in Python that collects daily ETF price data using the [Alpha Vantage API](https://www.alphavantage.co/), processes and cleans the data, and stores it in a local SQLite database. It’s designed to be modular, extensible, and easily integrated into more complex data workflows or dashboards.
 
